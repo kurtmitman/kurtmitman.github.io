@@ -6,6 +6,14 @@ theme = "PaperMod"
 enableRobotsTXT = true
 publishDir = "docs"
 
+ignoreLogs = ["warning-goldmark-raw-html"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params]
   ShowReadingTime = true
   ShowShareButtons = false
@@ -13,3 +21,19 @@ publishDir = "docs"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
+
+[menu]
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 1
+
+  [[menu.main]]
+    name = "HIPSTERMacro"
+    url = "/hipster-macro/"
+    weight = 2
+
+  [[menu.main]]
+    name = "MicrotoMacroandBank"
+    url = "/microtomacroandbank/"
+    weight = 3
