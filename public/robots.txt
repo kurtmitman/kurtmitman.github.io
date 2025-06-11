@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kurtmitman.github.io/sitemap.xml
