@@ -2,36 +2,23 @@ baseURL = "https://kurtmitman.github.io/"
 languageCode = "en-us"
 title = "Kurt Mitman"
 theme = "PaperMod"
-enableRobotsTXT = true
-
-ignoreLogs = ["warning-goldmark-raw-html"]
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
+[pagination]
+  pagerSize = 10
 
 [params]
-  ShowReadingTime = true
+  author = "Kurt Mitman"
   ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowReadingTime = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
 
 [menu]
-  [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 1
+[[menu.main]]
+  name = "Research"
+  url = "/research"
+  weight = 1
 
-  [[menu.main]]
-    name = "HIPSTERMacro"
-    url = "/hipster-macro/"
-    weight = 2
-
-  [[menu.main]]
-    name = "MicrotoMacroandBank"
-    url = "/microtomacroandbank/"
-    weight = 3
+[[menu.main]]
+  name = "CV"
+  url = "/KurtMitmanCV.pdf"
+  weight = 2
