@@ -6,7 +6,7 @@ title: "Kurt Mitman"
 <!--![](/images/profile.png)-->
 <!--<img src="/images/profile.png" alt="Kurt Mitman" style="max-width: 300px; height: auto;" />-->
 <div style="text-align: center;">
-  <img src="/images/profile.png" alt="Kurt Mitman" style="max-width: 300px; height: auto; border-radius: 8px;" />
+  <img src="images/profile.png" alt="Kurt Mitman" style="max-width: 300px; height: auto; border-radius: 8px;" />
 </div>
 
 
