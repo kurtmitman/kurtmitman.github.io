@@ -1,5 +1,19 @@
+
 ---
 title: "Kurt Mitman"
 ---
 
-Welcome to my personal website. I am a Professor at CEMFI. You can find my [CV here](/KurtMitmanCV.pdf).
+<!--![](/images/profile.png)-->
+<!--<img src="/images/profile.png" alt="Kurt Mitman" style="max-width: 300px; height: auto;" />-->
+<div style="text-align: center;">
+  <img src="/images/profile.png" alt="Kurt Mitman" style="max-width: 300px; height: auto; border-radius: 8px;" />
+</div>
+
+
+**Professor at CEMFI**  
+Associate Professor (on leave), IIES, Stockholm University  
+Research Fellow at CEPR and IZA  
+
+My research focuses on macroeconomics. I serve on the Editorial Board of the *Review of Economic Studies*, where I was formerly a Managing Editor.
+
+[Download CV](/files/KurtMitmanCV.pdf)
