@@ -45,6 +45,11 @@ URL = {https://doi.org/10.1086/736215}}
 ```
 </details></div>
 
+- **The Distributional Effects of Oil Shocks**  
+  Forthcoming, *IMF Economic Review* (with T. Broer and J. Kramer)  
+  [PDF](#) | [BibTeX](#) | [Repo](#)
+
+
 - **Do Unemployment Benefit Extensions Explain the Emergence of Jobless Recoveries?**  
   *Journal of Economic Dynamics and Control*, 2024, 169: 104964 (with S. Rabinovich)  
   [PDF](#) | [Published Version](https://doi.org/10.1016/j.jedc.2024.104964) |
@@ -177,21 +182,30 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
   R&R, *Quantitative Economics* (with M. Bognanni, D. Hanley, and D. Kolliner)  
   [PDF](#) | [BibTeX](#) | [Repo](#)
 
-- **The Distributional Effects of Oil Shocks**  
-  R&R, *IMF Economic Review* (with T. Broer and J. Kramer)  
+---
+
+## Papers Submitted for Publicaton
+
+- **The Fiscal Multiplier**  
+  NBER WP 25571 (with M. Hagedorn and I. Manovskii)  
+  [PDF](#) | [BibTeX](#) | [Repo](#)
+
+- **Monetary Policy in Currency Unions with Unequal Countries**  
+  CEPR DP 19872 (with L. Boehnert, S. de Ferra, and F. Romei)  
+  [PDF](#) | [BibTeX](#) | [Repo](#)
+
+- **Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation**
+    CEPR DP 20364 (with A. Hedlund, K. Larkin, and S. Ozkan)
+    [PDF](#) | [BibTeX](#) | [Repo](#)  
+
+- **Distributional Consequences of Becoming Climate-Neutral**  
+  (with P. Hochmuth and P. Krusell)  
   [PDF](#) | [BibTeX](#) | [Repo](#)
 
 ---
 
 ## Working Papers
 
-- **The Fiscal Multiplier**  
-  NBER WP 25571 (with M. Hagedorn and I. Manovskii)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
-
-- **High Non-Tradable Consumption, Inequality, and Weak Monetary Policy**  
-  CEPR DP 19872 (with L. Boehnert, S. de Ferra, and F. Romei)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
 
 - **Consumer Bankruptcy as Aggregate Demand Management**  
   (with A. Auclert)  
@@ -201,6 +215,3 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
   (with A. Peter, M. Piazzesi, and M. Schneider)  
   [PDF](#) | [BibTeX](#) | [Repo](#)
 
-- **Distributional Consequences of Becoming Climate-Neutral**  
-  (with P. Hochmuth and P. Krusell)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
