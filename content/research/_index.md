@@ -122,7 +122,7 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 
 - **Household Heterogeneity and the Transmission of Foreign Shocks**  
 *Journal of International Economics*, 2020, 124: 103303 (with S. de Ferra and F. Romei)   
-[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | 
+[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | [Repo] (https://github.com/kurtmitman/housing-boom-bust)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
@@ -145,6 +145,30 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 
 - **Exploiting MIT Shocks in Heterogeneous Agent Economies**  
   *Journal of Economic Dynamics and Control*, 2018 (with T. Boppart and P. Krusell)    [PDF](#) | [BibTeX](#) | [Repo](#)
+
+- **Macroeconomics and Household Heterogeneity**  
+  *Handbook of Macroeconomics Vol. 2*, 2016 (with D. Krueger and F. Perri)
+  [PDF](#) | [DOI](https://doi.org/10.1016/bs.hesmac.2016.04.003) | [Repo](#)
+  
+  <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
+```bibtex
+@incollection{KRUEGER2016843,
+title = {Chapter 11 - Macroeconomics and Household Heterogeneity},
+editor = {John B. Taylor and Harald Uhlig},
+series = {Handbook of Macroeconomics},
+publisher = {Elsevier},
+volume = {2},
+pages = {843-921},
+year = {2016},
+issn = {1574-0048},
+doi = {https://doi.org/10.1016/bs.hesmac.2016.04.003},
+url = {https://www.sciencedirect.com/science/article/pii/S1574004816300039},
+author = {D. Krueger and K. Mitman and F. Perri},
+keywords = {Recessions, Wealth inequality, Social insurance}
+}
+```
+</details></div>
 
 - **Macroeconomic Effects of Bankruptcy and Foreclosure Policies**  
   *American Economic Review*, 2016  
