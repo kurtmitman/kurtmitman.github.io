@@ -29,8 +29,8 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      - name: Add CNAME for custom domain
-        run: echo "www.kurtmitman.com" > public/CNAME
+      #- name: Add CNAME for custom domain
+      #  run: echo "www.kurtmitman.com" > public/CNAME
 
       - name: Set Git identity
         run: |
