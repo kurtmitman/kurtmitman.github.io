@@ -76,6 +76,7 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 - **On the Possibility of Krusell-Smith Equilibria**  
   *Journal of Economic Dynamics and Control*, 2022, 141: 104391 (with T. Broer, A. Kohlhas, and K. Schlafmann)  
   [PDF](/files/on_the_possibility_of_ks.pdf) | [Published Version](https://doi.org/10.1016/j.jedc.2022.104391) | [Repo](#)
+  
   <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
   ```bibtex
