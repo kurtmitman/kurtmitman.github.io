@@ -20,8 +20,19 @@ theme = "PaperMod"
 
 [[menu.main]]
   name = "CV"
-  url = "/KurtMitmanCV.pdf"
+  url = "files/KurtMitmanCV.pdf"
   weight = 2
+
+[[menu.main]]
+  name = "HIPSTERMacro"
+  url = "/hipstermacro/"
+  weight = 3
+
+[[menu.main]]
+  name = "MicrotoMacroandBack"
+  url = "/microtomacroandback/"
+  weight = 4
+
 
 [markup]
   [markup.goldmark]
