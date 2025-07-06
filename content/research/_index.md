@@ -79,7 +79,7 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
   
   <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
-  ```bibtex
+```bibtex
 @article{broer2022krusell,
 title={On the possibility of Krusell--Smith equilibria},
 author={Broer, Tobias and Kohlhas, Alexander and Mitman, Kurt and Schlafmann, Kathrin},
