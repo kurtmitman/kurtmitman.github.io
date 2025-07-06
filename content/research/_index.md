@@ -75,12 +75,43 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 
 - **On the Possibility of Krusell-Smith Equilibria**  
   *Journal of Economic Dynamics and Control*, 2022, 141: 104391 (with T. Broer, A. Kohlhas, and K. Schlafmann)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/on_the_possibility_of_ks.pdf) | [Published Version](https://doi.org/10.1016/j.jedc.2022.104391) | [Repo](#)
+  <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
+  ```bibtex
+@article{broer2022krusell,
+  title={On the possibility of Krusell--Smith equilibria},
+  author={Broer, Tobias and Kohlhas, Alexander and Mitman, Kurt and Schlafmann, Kathrin},
+  journal={Journal of Economic Dynamics and Control},
+  volume={141},
+  pages={104391},
+  year={2022},
+  publisher={Elsevier},
+  doi={10.1016/j.jedc.2022.104391},
+  url={https://doi.org/10.1016/j.jedc.2022.104391}
+}
+```
+</details></div>
 
 - **Whether, When and How to Extend Unemployment Benefits: Theory and Application to COVID-19**  
-  *Journal of Public Economics*, 2021, 200: 10447 (with S. Rabinovich)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
-  
+  *Journal of Public Economics*, 2021, 200: 104447 (with S. Rabinovich)  
+  [PDF](#) | [Published Version](https://doi.org/10.1016/j.jpubeco.2021.104447) | [Repo](https://github.com/kurtmitman/ui-pandemic)
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary> 
+
+```bibtex
+@article{mitman2021covid,
+  title={Whether, when and how to extend unemployment benefits: Theory and application to COVID-19},
+  author={Mitman, Kurt and Rabinovich, Stanislav},
+  journal={Journal of Public Economics},
+  volume={200},
+  pages={104447},
+  year={2021},
+  publisher={Elsevier},
+  doi={10.1016/j.jpubeco.2021.104447},
+  url={https://doi.org/10.1016/j.jpubeco.2021.104447}
+}
+```
+</details></div>  
   
 - **The Housing Boom and Bust: Model Meets Evidence**  
 *Journal of Political Economy*, 2020, 128:9, 3285:3345  – Lead Article (with G. Kaplan and G. L. Violante)   
