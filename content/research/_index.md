@@ -57,7 +57,7 @@ URL = {https://doi.org/10.1086/736215}}
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
-@article{MITMAN2024104964,
+@article{mitman2024jobless,
 title = {Do unemployment benefit extensions explain the emergence of jobless recoveries?},
 journal = {Journal of Economic Dynamics and Control},
 volume = {169},
@@ -115,7 +115,7 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
   
 - **The Housing Boom and Bust: Model Meets Evidence**  
 *Journal of Political Economy*, 2020, 128:9, 3285:3345  – Lead Article (with G. Kaplan and G. L. Violante)   
-[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | [Repo](https://github.com/kurtmitman/housing-boom-bust)
+[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://doi.org/10.1086/708816) | [Repo](https://github.com/kurtmitman/housing-boom-bust)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary> 
 
 ```bibtex
@@ -134,7 +134,7 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 
 - **Non-durable Consumption and Housing Net Worth in the Great Recession: Evidence from Easily Accessible Data**  
 *Journal of Public Economics*, 2020, 189: 104176 (with G. Kaplan and G. L. Violante)   
-[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | 
+[PDF](/files/KMV_consumption.pdf) | [Published Version](https://doi.org/10.1016/j.jpubeco.2020.104176) | 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
