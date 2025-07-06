@@ -7,8 +7,8 @@ title: "Research"
 
 - **Micro and Macro Effects of UI Policies: Evidence from Missouri**  
   Forthcoming, *Journal of Political Economy* (with F. Karahan and B. Moore)  
-  [PDF](/files/Micro_and_Macro_Effects_of_UI_Policies.pdf)
- | [Published Version](https://doi.org/10.1086/736215) | 
+  [PDF](/files/Missouri.pdf)
+ | [Published Version](https://doi.org/10.1086/736215) | [Repo](https://doi.org/10.7910/DVN/FHB4BK)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
@@ -29,7 +29,7 @@ URL = {https://doi.org/10.1086/736215}}
 
 - **The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?**  
   Forthcoming, *AEJ: Macroeconomics* (with M. Hagedorn and I. Manovskii)  
-  [PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | 
+  [PDF](/files/Miracle.pdf) | [Published Version](https://www.aeaweb.org/articles?id=10.1257/mac.20200239) | [Repo](#) | [Appendices](/files/MiracleAppendix.pdf)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
@@ -40,19 +40,19 @@ URL = {https://doi.org/10.1086/736215}}
   volume={0},
   number={ja},
   pages={null},
-  year={}
+  year={2025}
 }
 ```
 </details></div>
 
 - **The Distributional Effects of Oil Shocks**  
   Forthcoming, *IMF Economic Review* (with T. Broer and J. Kramer)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/Oil.pdf) | [Published Version](#) | [Repo](#)
 
 
 - **Do Unemployment Benefit Extensions Explain the Emergence of Jobless Recoveries?**  
   *Journal of Economic Dynamics and Control*, 2024, 169: 104964 (with S. Rabinovich)  
-  [PDF](#) | [Published Version](https://doi.org/10.1016/j.jedc.2024.104964) |
+  [PDF](/files/UI_JR.pdf) | [Published Version](https://doi.org/10.1016/j.jedc.2024.104964) |
 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
@@ -84,8 +84,8 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
   
 - **The Housing Boom and Bust: Model Meets Evidence**  
 *Journal of Political Economy*, 2020, 128:9, 3285:3345  – Lead Article (with G. Kaplan and G. L. Violante)   
-[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | 
-<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | [Repo](https://github.com/kurtmitman/housing-boom-bust)
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary> 
 
 ```bibtex
 @article{kaplan2020housing,
@@ -122,7 +122,7 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 
 - **Household Heterogeneity and the Transmission of Foreign Shocks**  
 *Journal of International Economics*, 2020, 124: 103303 (with S. de Ferra and F. Romei)   
-[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | [Repo] (https://github.com/kurtmitman/housing-boom-bust)
+[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | [Repo](#)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
@@ -144,14 +144,14 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
   [PDF](#) | [BibTeX](#) | [Repo](#)
 
 - **Exploiting MIT Shocks in Heterogeneous Agent Economies**  
-  *Journal of Economic Dynamics and Control*, 2018 (with T. Boppart and P. Krusell)    [PDF](#) | [BibTeX](#) | [Repo](#)
+  *Journal of Economic Dynamics and Control*, 2018 (with T. Boppart and P. Krusell)
+  [PDF](#) | [BibTeX](#) | [Repo](#)
 
 - **Macroeconomics and Household Heterogeneity**  
   *Handbook of Macroeconomics Vol. 2*, 2016 (with D. Krueger and F. Perri)
   [PDF](#) | [DOI](https://doi.org/10.1016/bs.hesmac.2016.04.003) | [Repo](#)
   
-  <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
-
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 ```bibtex
 @incollection{KRUEGER2016843,
 title = {Chapter 11 - Macroeconomics and Household Heterogeneity},
