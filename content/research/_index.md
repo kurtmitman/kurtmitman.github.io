@@ -81,15 +81,15 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 
   ```bibtex
 @article{broer2022krusell,
-  title={On the possibility of Krusell--Smith equilibria},
-  author={Broer, Tobias and Kohlhas, Alexander and Mitman, Kurt and Schlafmann, Kathrin},
-  journal={Journal of Economic Dynamics and Control},
-  volume={141},
-  pages={104391},
-  year={2022},
-  publisher={Elsevier},
-  doi={10.1016/j.jedc.2022.104391},
-  url={https://doi.org/10.1016/j.jedc.2022.104391}
+title={On the possibility of Krusell--Smith equilibria},
+author={Broer, Tobias and Kohlhas, Alexander and Mitman, Kurt and Schlafmann, Kathrin},
+journal={Journal of Economic Dynamics and Control},
+volume={141},
+pages={104391},
+year={2022},
+publisher={Elsevier},
+doi={10.1016/j.jedc.2022.104391},
+url={https://doi.org/10.1016/j.jedc.2022.104391}
 }
 ```
 </details></div>
@@ -97,38 +97,40 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 - **Whether, When and How to Extend Unemployment Benefits: Theory and Application to COVID-19**  
   *Journal of Public Economics*, 2021, 200: 104447 (with S. Rabinovich)  
   [PDF](#) | [Published Version](https://doi.org/10.1016/j.jpubeco.2021.104447) | [Repo](https://github.com/kurtmitman/ui-pandemic)
+  
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary> 
 
 ```bibtex
 @article{mitman2021covid,
-  title={Whether, when and how to extend unemployment benefits: Theory and application to COVID-19},
-  author={Mitman, Kurt and Rabinovich, Stanislav},
-  journal={Journal of Public Economics},
-  volume={200},
-  pages={104447},
-  year={2021},
-  publisher={Elsevier},
-  doi={10.1016/j.jpubeco.2021.104447},
-  url={https://doi.org/10.1016/j.jpubeco.2021.104447}
+title={Whether, when and how to extend unemployment benefits: Theory and application to COVID-19},
+author={Mitman, Kurt and Rabinovich, Stanislav},
+journal={Journal of Public Economics},
+volume={200},
+pages={104447},
+year={2021},
+publisher={Elsevier},
+doi={10.1016/j.jpubeco.2021.104447},
+url={https://doi.org/10.1016/j.jpubeco.2021.104447}
 }
 ```
 </details></div>  
   
 - **The Housing Boom and Bust: Model Meets Evidence**  
-*Journal of Political Economy*, 2020, 128:9, 3285:3345  – Lead Article (with G. Kaplan and G. L. Violante)   
-[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://doi.org/10.1086/708816) | [Repo](https://github.com/kurtmitman/housing-boom-bust)
+  *Journal of Political Economy*, 2020, 128:9, 3285:3345  – Lead Article (with G. Kaplan and G. L. Violante)   
+  [PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://doi.org/10.1086/708816) | [Repo](https://github.com/kurtmitman/housing-boom-bust)
+
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary> 
 
 ```bibtex
 @article{kaplan2020housing,
-  title={The housing boom and bust: Model meets evidence},
-  author={Kaplan, Greg and Mitman, Kurt and Violante, Giovanni L},
-  journal={Journal of Political Economy},
-  volume={128},
-  number={9},
-  pages={3285--3345},
-  year={2020},
-  publisher={The University of Chicago Press Chicago, IL}
+title={The housing boom and bust: Model meets evidence},
+author={Kaplan, Greg and Mitman, Kurt and Violante, Giovanni L},
+journal={Journal of Political Economy},
+volume={128},
+number={9},
+pages={3285--3345},
+year={2020},
+publisher={The University of Chicago Press Chicago, IL}
 }
 ```
 </details></div>
@@ -139,15 +141,16 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
-@article{kaplan2020housing,
-  title={The housing boom and bust: Model meets evidence},
-  author={Kaplan, Greg and Mitman, Kurt and Violante, Giovanni L},
-  journal={Journal of Political Economy},
-  volume={128},
-  number={9},
-  pages={3285--3345},
-  year={2020},
-  publisher={The University of Chicago Press Chicago, IL}
+@article{kaplan2020nondurable,
+title={Non-durable consumption and housing net worth in the Great Recession: Evidence from easily accessible data},
+author={Kaplan, Greg and Mitman, Kurt and Violante, Giovanni L},
+journal={Journal of Public Economics},
+volume={189},
+pages={104176},
+year={2020},
+publisher={Elsevier},
+doi={10.1016/j.jpubeco.2020.104176},
+url={https://doi.org/10.1016/j.jpubeco.2020.104176}
 }
 ```
 </details></div>
