@@ -116,7 +116,7 @@ url={https://doi.org/10.1016/j.jpubeco.2021.104447}
   
 - **The Housing Boom and Bust: Model Meets Evidence**  
   *Journal of Political Economy*, 2020, 128:9, 3285:3345  – Lead Article (with G. Kaplan and G. L. Violante)   
-  [PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://doi.org/10.1086/708816) | [Repo](https://github.com/kurtmitman/housing-boom-bust)
+  [PDF](/files/KMV_housing.pdf) | [Published Version](https://doi.org/10.1086/708816) | [Repo](https://github.com/kurtmitman/housing-boom-bust)
 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary> 
 
