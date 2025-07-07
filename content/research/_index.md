@@ -76,8 +76,7 @@ keywords = {Business cycles, Jobless recoveries, Unemployment insurance}
 - **On the Possibility of Krusell-Smith Equilibria**  
   *Journal of Economic Dynamics and Control*, 2022, 141: 104391 (with T. Broer, A. Kohlhas, and K. Schlafmann)  
   [PDF](/files/on_the_possibility_of_ks.pdf) | [Published Version](https://doi.org/10.1016/j.jedc.2022.104391) | [Repo](#)
-  
-  <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
 @article{broer2022krusell,
@@ -136,8 +135,8 @@ publisher={The University of Chicago Press Chicago, IL}
 </details></div>
 
 - **Non-durable Consumption and Housing Net Worth in the Great Recession: Evidence from Easily Accessible Data**  
-*Journal of Public Economics*, 2020, 189: 104176 (with G. Kaplan and G. L. Violante)   
-[PDF](/files/KMV_consumption.pdf) | [Published Version](https://doi.org/10.1016/j.jpubeco.2020.104176) | 
+  *Journal of Public Economics*, 2020, 189: 104176 (with G. Kaplan and G. L. Violante)   
+  [PDF](/files/KMV_consumption.pdf) | [Published Version](https://doi.org/10.1016/j.jpubeco.2020.104176) | 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
@@ -156,8 +155,8 @@ url={https://doi.org/10.1016/j.jpubeco.2020.104176}
 </details></div>
 
 - **Household Heterogeneity and the Transmission of Foreign Shocks**  
-*Journal of International Economics*, 2020, 124: 103303 (with S. de Ferra and F. Romei)   
-[PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | [Repo](#)
+  *Journal of International Economics*, 2020, 124: 103303 (with S. de Ferra and F. Romei)   
+  [PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | [Repo](#)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
@@ -227,7 +226,7 @@ keywords = {Recessions, Wealth inequality, Social insurance}
 
 - **Expectation and Wealth Heterogeneity in the Macroeconomy**  
   R&R, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/EWHM_Web.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Inequality and Capital Flows in Advanced Economies**  
   R&R, *Review of Economic Studies* (with S. de Ferra and F. Romei)  
@@ -254,8 +253,8 @@ keywords = {Recessions, Wealth inequality, Social insurance}
   [PDF](#) | [BibTeX](#) | [Repo](#)
 
 - **Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation**
-    CEPR DP 20364 (with A. Hedlund, K. Larkin, and S. Ozkan)
-    [PDF](#) | [BibTeX](#) | [Repo](#)  
+  CEPR DP 20364 (with A. Hedlund, K. Larkin, and S. Ozkan)
+  [PDF](#) | [BibTeX](#) | [Repo](#)  
 
 - **Distributional Consequences of Becoming Climate-Neutral**  
   (with P. Hochmuth and P. Krusell)  
