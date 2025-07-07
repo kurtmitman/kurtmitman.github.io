@@ -176,7 +176,7 @@ url={https://doi.org/10.1016/j.jinteco.2020.103303}
 
 - **Forward Guidance**  
   *Journal of Monetary Economics*, 2019, 129 – Lead Article (with M. Hagedorn, J. Luo, and I. Manovskii)  
-  [PDF](/files/FG.pdf) | [Published Version](https://doi.org/10.1016/j.jmoneco.2019.06.001) | [Repo](#)
+  [PDF](/files/FG.pdf) | [Published Version](https://doi.org/10.1016/j.jmoneco.2019.01.014) | [Repo](#)
 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
@@ -185,14 +185,15 @@ url={https://doi.org/10.1016/j.jinteco.2020.103303}
 title={Forward guidance},
 author={Hagedorn, Marcus and Luo, Jinhui and Mitman, Kurt and Manovskii, Iourii},
 journal={Journal of Monetary Economics},
-volume={129},
-pages={103--119},
+volume={102},
+pages={1--23},
 year={2019},
 publisher={Elsevier},
-doi={10.1016/j.jmoneco.2019.06.001},
-url={https://doi.org/10.1016/j.jmoneco.2019.06.001}
+doi={10.1016/j.jmoneco.2019.06.014},
+url={https://doi.org/10.1016/j.jmoneco.2019.01.014}
 }
 ```
+</details></div>
 
 - **Exploiting MIT Shocks in Heterogeneous Agent Economies: The Impulse Response as a Numerical Derivative**  
   *Journal of Economic Dynamics and Control*, 2018 (with T. Boppart and P. Krusell)
@@ -215,6 +216,7 @@ author = {Timo Boppart and Per Krusell and Kurt Mitman},
 keywords = {Heterogeneous agents, Computation, Linearization, MIT Shock}
 }
 ```
+</details></div>
 
 - **Macroeconomics and Household Heterogeneity**  
   *Handbook of Macroeconomics Vol. 2*, 2016 (with D. Krueger and F. Perri)
