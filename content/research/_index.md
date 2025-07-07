@@ -243,15 +243,68 @@ keywords = {Recessions, Wealth inequality, Social insurance}
 
 - **Macroeconomic Effects of Bankruptcy and Foreclosure Policies**  
   *American Economic Review*, 2016  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](#) | [Published Version](https://www.aeaweb.org/articles?id=10.1257/aer.20120512) | [Repo](http://doi.org/10.3886/E116138V1)
+
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+```bibtex
+@article{mitman2015OptimalUI,
+title = {Optimal unemployment insurance in an equilibrium business-cycle model},
+journal = {Journal of Monetary Economics},
+volume = {71},
+pages = {99-118},
+year = {2015},
+issn = {0304-3932},
+doi = {https://doi.org/10.1016/j.jmoneco.2014.11.009},
+url = {https://www.sciencedirect.com/science/article/pii/S0304393214001664},
+author = {Kurt Mitman and Stanislav Rabinovich},
+keywords = {Unemployment insurance, Business cycles, Optimal policy, Search and matching}
+}
+```
+</details></div>
 
 - **Optimal Unemployment Insurance in an Equilibrium Business Cycle Model**  
   *Journal of Monetary Economics*, 2015 (with S. Rabinovich)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](#) | [Published Version](https://doi.org/10.1016/j.jmoneco.2014.11.009) | [Repo](https://github.com/kurtmitman/Optimal-UI)
+
+
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+```bibtex
+@article{mitman2015OptimalUI,
+title = {Optimal unemployment insurance in an equilibrium business-cycle model},
+journal = {Journal of Monetary Economics},
+volume = {71},
+pages = {99-118},
+year = {2015},
+issn = {0304-3932},
+doi = {https://doi.org/10.1016/j.jmoneco.2014.11.009},
+url = {https://www.sciencedirect.com/science/article/pii/S0304393214001664},
+author = {Kurt Mitman and Stanislav Rabinovich},
+keywords = {Unemployment insurance, Business cycles, Optimal policy, Search and matching}
+}
+```
+</details></div>
 
 - **Housing, Mortgage Bailout Guarantees and the Macro Economy**  
   *Journal of Monetary Economics*, 2013 (with K. Jeske and D. Krueger)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](#) | [Published Version](https://doi.org/10.1016/j.jmoneco.2013.09.001) | [Repo](#)
+
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+```bibtex
+@article{bailouts2013,
+title = {Housing, mortgage bailout guarantees and the macro economy},
+journal = {Journal of Monetary Economics},
+volume = {60},
+number = {8},
+pages = {917-935},
+year = {2013},
+issn = {0304-3932},
+doi = {https://doi.org/10.1016/j.jmoneco.2013.09.001},
+url = {https://www.sciencedirect.com/science/article/pii/S0304393213001219},
+author = {Karsten Jeske and Dirk Krueger and Kurt Mitman},
+keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterprises}
+}
+```
+</details></div>
 
 ---
 
