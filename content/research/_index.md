@@ -156,38 +156,73 @@ url={https://doi.org/10.1016/j.jpubeco.2020.104176}
 
 - **Household Heterogeneity and the Transmission of Foreign Shocks**  
   *Journal of International Economics*, 2020, 124: 103303 (with S. de Ferra and F. Romei)   
-  [PDF](https://www.dropbox.com/s/u7ex6hecl0ph7ja/kmv_housing_round2_v3.pdf) | [Published Version](https://www.journals.uchicago.edu/doi/10.1086/708816) | [Repo](#)
+  [PDF](/files/dFMR_Flows.pdf) | [Published Version](https://doi.org/10.1016/j.jinteco.2020.103303) | [Repo](https://github.com/kurtmitman/HANKSOME)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
-@article{kaplan2020housing,
-  title={The housing boom and bust: Model meets evidence},
-  author={Kaplan, Greg and Mitman, Kurt and Violante, Giovanni L},
-  journal={Journal of Political Economy},
-  volume={128},
-  number={9},
-  pages={3285--3345},
-  year={2020},
-  publisher={The University of Chicago Press Chicago, IL}
+@article{deferra2020foreign,
+title={Household heterogeneity and the transmission of foreign shocks},
+author={de Ferra, Sergio and Mitman, Kurt and Romei, Federica},
+journal={Journal of International Economics},
+volume={124},
+pages={103303},
+year={2020},
+publisher={Elsevier},
+doi={10.1016/j.jinteco.2020.103303},
+url={https://doi.org/10.1016/j.jinteco.2020.103303}
 }
 ```
 </details></div>
 
 - **Forward Guidance**  
   *Journal of Monetary Economics*, 2019, 129 – Lead Article (with M. Hagedorn, J. Luo, and I. Manovskii)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/FG.pdf) | [Published Version](https://doi.org/10.1016/j.jmoneco.2019.06.001) | [Repo](#)
 
-- **Exploiting MIT Shocks in Heterogeneous Agent Economies**  
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
+```bibtex
+@article{hagedorn2019forward,
+title={Forward guidance},
+author={Hagedorn, Marcus and Luo, Jinhui and Mitman, Kurt and Manovskii, Iourii},
+journal={Journal of Monetary Economics},
+volume={129},
+pages={103--119},
+year={2019},
+publisher={Elsevier},
+doi={10.1016/j.jmoneco.2019.06.001},
+url={https://doi.org/10.1016/j.jmoneco.2019.06.001}
+}
+```
+
+- **Exploiting MIT Shocks in Heterogeneous Agent Economies: The Impulse Response as a Numerical Derivative**  
   *Journal of Economic Dynamics and Control*, 2018 (with T. Boppart and P. Krusell)
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/BKM_MITmen_Web.pdf) | [Published Version](https://doi.org/10.1016/j.jedc.2018.01.002) | [Repo](https://github.com/kurtmitman/BKM_MIT)
+
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
+```bibtex
+@article{MITmen2018,
+title = {Exploiting MIT shocks in heterogeneous-agent economies: the impulse response as a numerical derivative},
+journal = {Journal of Economic Dynamics and Control},
+volume = {89},
+pages = {68-92},
+year = {2018},
+note = {Fed St. Louis-JEDC-SCG-SNB-UniBern Conference, titled: “Fiscal and Monetary Policies”.},
+issn = {0165-1889},
+doi = {https://doi.org/10.1016/j.jedc.2018.01.002},
+url = {https://www.sciencedirect.com/science/article/pii/S0165188918300022},
+author = {Timo Boppart and Per Krusell and Kurt Mitman},
+keywords = {Heterogeneous agents, Computation, Linearization, MIT Shock}
+}
+```
 
 - **Macroeconomics and Household Heterogeneity**  
   *Handbook of Macroeconomics Vol. 2*, 2016 (with D. Krueger and F. Perri)
-  [PDF](#) | [DOI](https://doi.org/10.1016/bs.hesmac.2016.04.003) | [Repo](#)
+  [PDF](/files/HandbookFinalKMP.pdf) | [DOI](https://doi.org/10.1016/bs.hesmac.2016.04.003) | [Repo](#)
   
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 ```bibtex
-@incollection{KRUEGER2016843,
+@incollection{Handbook2016,
 title = {Chapter 11 - Macroeconomics and Household Heterogeneity},
 editor = {John B. Taylor and Harald Uhlig},
 series = {Handbook of Macroeconomics},
