@@ -223,6 +223,7 @@ keywords = {Heterogeneous agents, Computation, Linearization, MIT Shock}
   [PDF](/files/HandbookFinalKMP.pdf) | [DOI](https://doi.org/10.1016/bs.hesmac.2016.04.003) | [Repo](#)
   
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
 ```bibtex
 @incollection{Handbook2016,
 title = {Chapter 11 - Macroeconomics and Household Heterogeneity},
@@ -246,6 +247,7 @@ keywords = {Recessions, Wealth inequality, Social insurance}
   [PDF](#) | [Published Version](https://www.aeaweb.org/articles?id=10.1257/aer.20120512) | [Repo](http://doi.org/10.3886/E116138V1)
 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
 ```bibtex
 @article{mitman2015OptimalUI,
 title = {Optimal unemployment insurance in an equilibrium business-cycle model},
@@ -268,6 +270,7 @@ keywords = {Unemployment insurance, Business cycles, Optimal policy, Search and 
 
 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
 ```bibtex
 @article{mitman2015OptimalUI,
 title = {Optimal unemployment insurance in an equilibrium business-cycle model},
@@ -289,6 +292,7 @@ keywords = {Unemployment insurance, Business cycles, Optimal policy, Search and 
   [PDF](#) | [Published Version](https://doi.org/10.1016/j.jmoneco.2013.09.001) | [Repo](#)
 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
 ```bibtex
 @article{bailouts2013,
 title = {Housing, mortgage bailout guarantees and the macro economy},
@@ -312,7 +316,7 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 - **Unemployment Benefits and Unemployment in the Great Recession: The Role of Macro Effects**  
   R&R 2nd Round Resubmitted, *Journal of Political Economy* (with M. Hagedorn, F. Karahan, and I. Manovskii)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/UI_and_U.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Expectation and Wealth Heterogeneity in the Macroeconomy**  
   R&R, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
@@ -340,15 +344,15 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 - **Monetary Policy in Currency Unions with Unequal Countries**  
   CEPR DP 19872 (with L. Boehnert, S. de Ferra, and F. Romei)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](#) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17950.html) | [Repo](#)
 
 - **Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation**
   CEPR DP 20364 (with A. Hedlund, K. Larkin, and S. Ozkan)
-  [PDF](#) | [BibTeX](#) | [Repo](#)  
+  [PDF](#) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Repo](#)  
 
 - **Distributional Consequences of Becoming Climate-Neutral**  
   (with P. Hochmuth and P. Krusell)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](#) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
 
 ---
 
