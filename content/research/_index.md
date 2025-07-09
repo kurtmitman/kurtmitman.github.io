@@ -95,7 +95,7 @@ url={https://doi.org/10.1016/j.jedc.2022.104391}
 
 - **Whether, When and How to Extend Unemployment Benefits: Theory and Application to COVID-19**  
   *Journal of Public Economics*, 2021, 200: 104447 (with S. Rabinovich)  
-  [PDF](#) | [Published Version](https://doi.org/10.1016/j.jpubeco.2021.104447) | [Repo](https://github.com/kurtmitman/ui-pandemic)
+  [PDF](/files/UI_Covid_web.pdf) | [Published Version](https://doi.org/10.1016/j.jpubeco.2021.104447) | [Repo](https://github.com/kurtmitman/ui-pandemic)
   
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary> 
 
@@ -156,7 +156,7 @@ url={https://doi.org/10.1016/j.jpubeco.2020.104176}
 
 - **Household Heterogeneity and the Transmission of Foreign Shocks**  
   *Journal of International Economics*, 2020, 124: 103303 (with S. de Ferra and F. Romei)   
-  [PDF](/files/dFMR_Flows.pdf) | [Published Version](https://doi.org/10.1016/j.jinteco.2020.103303) | [Repo](https://github.com/kurtmitman/HANKSOME)
+  [PDF](/files/ForeignShocks.pdf) | [Published Version](https://doi.org/10.1016/j.jinteco.2020.103303) | [Repo](https://github.com/kurtmitman/HANKSOME)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
@@ -218,9 +218,31 @@ keywords = {Heterogeneous agents, Computation, Linearization, MIT Shock}
 ```
 </details></div>
 
+- **Macroeconomic Effects of Bankruptcy and Foreclosure Policies**  
+  *American Economic Review*, 2016  
+  [PDF](/files/MEBFP_Web.pdf) | [Published Version](https://www.aeaweb.org/articles?id=10.1257/aer.20120512) | [Repo](http://doi.org/10.3886/E116138V1)
+
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
+```bibtex
+@article{mitman2015OptimalUI,
+title = {Optimal unemployment insurance in an equilibrium business-cycle model},
+journal = {Journal of Monetary Economics},
+volume = {71},
+pages = {99-118},
+year = {2015},
+issn = {0304-3932},
+doi = {https://doi.org/10.1016/j.jmoneco.2014.11.009},
+url = {https://www.sciencedirect.com/science/article/pii/S0304393214001664},
+author = {Kurt Mitman and Stanislav Rabinovich},
+keywords = {Unemployment insurance, Business cycles, Optimal policy, Search and matching}
+}
+```
+</details></div>
+
 - **Macroeconomics and Household Heterogeneity**  
   *Handbook of Macroeconomics Vol. 2*, 2016 (with D. Krueger and F. Perri)
-  [PDF](/files/HandbookFinalKMP.pdf) | [DOI](https://doi.org/10.1016/bs.hesmac.2016.04.003) | [Repo](#)
+  [PDF](/files/HandbookFinalKMP.pdf) | [Published Version](https://doi.org/10.1016/bs.hesmac.2016.04.003) | [Repo](#)
   
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
@@ -242,31 +264,30 @@ keywords = {Recessions, Wealth inequality, Social insurance}
 ```
 </details></div>
 
-- **Macroeconomic Effects of Bankruptcy and Foreclosure Policies**  
-  *American Economic Review*, 2016  
-  [PDF](#) | [Published Version](https://www.aeaweb.org/articles?id=10.1257/aer.20120512) | [Repo](http://doi.org/10.3886/E116138V1)
-
+- **On the Distribution of the Welfare Losses of Large Recessions**  
+  *Advances in Economics and Econometrics: Volume 2: Eleventh World Congress*, 2017 (with D. Krueger and F. Perri)
+  [PDF](/files/ESWC.pdf) | [Published Version](https://www.cambridge.org/core/books/advances-in-economics-and-econometrics/on-the-distribution-of-the-welfare-losses-of-large-recessions/9996D3AE6AA6F896505F0D55B0293538) | [Repo](#)
+  
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
-@article{mitman2015OptimalUI,
-title = {Optimal unemployment insurance in an equilibrium business-cycle model},
-journal = {Journal of Monetary Economics},
-volume = {71},
-pages = {99-118},
-year = {2015},
-issn = {0304-3932},
-doi = {https://doi.org/10.1016/j.jmoneco.2014.11.009},
-url = {https://www.sciencedirect.com/science/article/pii/S0304393214001664},
-author = {Kurt Mitman and Stanislav Rabinovich},
-keywords = {Unemployment insurance, Business cycles, Optimal policy, Search and matching}
-}
+@inbook{Krueger_Mitman_Perri_2017, 
+place={Cambridge},
+series={Econometric Society Monographs},
+title={On the Distribution of the Welfare Losses of Large Recessions},
+booktitle={Advances in Economics and Econometrics: Eleventh World Congress},
+publisher={Cambridge University Press}, author={Krueger, Dirk and Mitman, Kurt and Perri, Fabrizio}, 
+editor={Honoré, Bo and Pakes, Ariel and Piazzesi, Monika and Samuelson, Larry},
+year={2017},
+pages={143–184},
+collection={Econometric Society Monographs}}
 ```
 </details></div>
 
+
 - **Optimal Unemployment Insurance in an Equilibrium Business Cycle Model**  
   *Journal of Monetary Economics*, 2015 (with S. Rabinovich)  
-  [PDF](#) | [Published Version](https://doi.org/10.1016/j.jmoneco.2014.11.009) | [Repo](https://github.com/kurtmitman/Optimal-UI)
+  [PDF](/files/OptimalUI_JME.pdf) | [Published Version](https://doi.org/10.1016/j.jmoneco.2014.11.009) | [Repo](https://github.com/kurtmitman/Optimal-UI)
 
 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
@@ -289,7 +310,7 @@ keywords = {Unemployment insurance, Business cycles, Optimal policy, Search and 
 
 - **Housing, Mortgage Bailout Guarantees and the Macro Economy**  
   *Journal of Monetary Economics*, 2013 (with K. Jeske and D. Krueger)  
-  [PDF](#) | [Published Version](https://doi.org/10.1016/j.jmoneco.2013.09.001) | [Repo](#)
+  [PDF](/files/Bailouts.pdf) | [Published Version](https://doi.org/10.1016/j.jmoneco.2013.09.001) | [Repo](#)
 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
