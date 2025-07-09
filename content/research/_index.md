@@ -196,7 +196,7 @@ url={https://doi.org/10.1016/j.jmoneco.2019.01.014}
 </details></div>
 
 - **Exploiting MIT Shocks in Heterogeneous Agent Economies: The Impulse Response as a Numerical Derivative**  
-  *Journal of Economic Dynamics and Control*, 2018 (with T. Boppart and P. Krusell)
+  *Journal of Economic Dynamics and Control*, 2018 (with T. Boppart and P. Krusell) 
   [PDF](/files/BKM_MITmen_Web.pdf) | [Published Version](https://doi.org/10.1016/j.jedc.2018.01.002) | [Repo](https://github.com/kurtmitman/BKM_MIT)
 
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
@@ -225,17 +225,15 @@ keywords = {Heterogeneous agents, Computation, Linearization, MIT Shock}
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
-@article{mitman2015OptimalUI,
-title = {Optimal unemployment insurance in an equilibrium business-cycle model},
-journal = {Journal of Monetary Economics},
-volume = {71},
-pages = {99-118},
-year = {2015},
-issn = {0304-3932},
-doi = {https://doi.org/10.1016/j.jmoneco.2014.11.009},
-url = {https://www.sciencedirect.com/science/article/pii/S0304393214001664},
-author = {Kurt Mitman and Stanislav Rabinovich},
-keywords = {Unemployment insurance, Business cycles, Optimal policy, Search and matching}
+@article{mitman2016macro,
+title={Macroeconomic effects of bankruptcy and foreclosure policies},
+author={Mitman, Kurt},
+journal={American Economic Review},
+volume={106},
+number={8},
+pages={2219--2255},
+year={2016},
+publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203}
 }
 ```
 </details></div>
@@ -357,7 +355,7 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 ---
 
-## Papers Submitted for Publicaton
+## Papers Submitted for Publication
 
 - **The Fiscal Multiplier**  
   NBER WP 25571 (with M. Hagedorn and I. Manovskii)  
