@@ -345,15 +345,15 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 - **Inequality and Capital Flows in Advanced Economies**  
   R&R, *Review of Economic Studies* (with S. de Ferra and F. Romei)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/dFMR_Flows.pdf) | [BibTeX](#) | [Repo](#)
 
 - **The Curious Incidence of Shocks Across the Income Distribution**  
   R&R, *AEJ: Macroeconomics* (with T. Broer and J. Kramer)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/Incidence_and_MP.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Economics and Epidemics: Evidence from an Estimated Spatial Econ-SIR Model**  
   R&R, *Quantitative Economics* (with M. Bognanni, D. Hanley, and D. Kolliner)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/COVID.pdf) | [BibTeX](#) | [Repo](#)
 
 ---
 
@@ -361,7 +361,7 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 - **The Fiscal Multiplier**  
   NBER WP 25571 (with M. Hagedorn and I. Manovskii)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](/files/FiscalMultiplierLastest.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Monetary Policy in Currency Unions with Unequal Countries**  
   CEPR DP 19872 (with L. Boehnert, S. de Ferra, and F. Romei)  
