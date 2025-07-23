@@ -353,6 +353,10 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
   R&R, *Quantitative Economics* (with M. Bognanni, D. Hanley, and D. Kolliner)  
   [PDF](/files/COVID.pdf) | [BibTeX](#) | [Repo](#)
 
+- **Distributional Consequences of Becoming Climate-Neutral**  
+  R&R, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
+  [PDF](#) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
+
 ---
 
 ## Papers Submitted for Publication
@@ -368,10 +372,6 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 - **Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation**
   CEPR DP 20364 (with A. Hedlund, K. Larkin, and S. Ozkan)
   [PDF](#) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Repo](#)  
-
-- **Distributional Consequences of Becoming Climate-Neutral**  
-  (with P. Hochmuth and P. Krusell)  
-  [PDF](#) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
 
 ---
 
