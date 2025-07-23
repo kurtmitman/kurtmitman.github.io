@@ -355,7 +355,7 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 - **Distributional Consequences of Becoming Climate-Neutral**  
   R&R, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
-  [PDF](#) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
+  [PDF](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
 
 ---
 
@@ -367,11 +367,11 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 - **Monetary Policy in Currency Unions with Unequal Countries**  
   CEPR DP 19872 (with L. Boehnert, S. de Ferra, and F. Romei)  
-  [PDF](#) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17950.html) | [Repo](#)
+  [PDF](https://ideas.repec.org/p/iza/izadps/dp17950.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17950.html) | [Repo](#)
 
 - **Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation**
   CEPR DP 20364 (with A. Hedlund, K. Larkin, and S. Ozkan)
-  [PDF](#) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Repo](#)  
+  [PDF]((https://ideas.repec.org/p/iza/izadps/dp17971.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Repo](#)  
 
 ---
 
