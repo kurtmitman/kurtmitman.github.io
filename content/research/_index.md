@@ -16,10 +16,10 @@ title: "Research"
 author = {Karahan, Fatih and Mitman, Kurt and Moore, Brendan},
 title = {Micro and Macro Effects of UI Policies: Evidence from Missouri},
 journal = {Journal of Political Economy},
-volume = {0},
-number = {ja},
-pages = {null},
-year = {0},
+volume = {133},
+number = {9},
+pages = {2836-2873},
+year = {2025},
 doi = {10.1086/736215},
 URL = {https://doi.org/10.1086/736215}}
 
