@@ -338,8 +338,8 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
   [PDF](/files/UI_and_U.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Expectation and Wealth Heterogeneity in the Macroeconomy**  
-  R&R, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
-  [PDF](/files/EWHM_Web.pdf) | [BibTeX](#) | [Repo](#)
+  R&R Resubmitted, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
+  [PDF](/files/expectation-wealth-heterogeneity.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Inequality and Capital Flows in Advanced Economies**  
   R&R, *Review of Economic Studies* (with S. de Ferra and F. Romei)  
