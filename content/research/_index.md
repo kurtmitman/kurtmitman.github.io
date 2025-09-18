@@ -371,7 +371,7 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 - **Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation**
   CEPR DP 20364 (with A. Hedlund, K. Larkin, and S. Ozkan)
-  [PDF]((https://ideas.repec.org/p/iza/izadps/dp17971.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Repo](#)  
+  [PDF](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Repo](#)  
 
 ---
 
