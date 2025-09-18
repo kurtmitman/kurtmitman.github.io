@@ -380,7 +380,7 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 - **Consumer Bankruptcy as Aggregate Demand Management**  
   (with A. Auclert)  
-  [PDF](#) | [BibTeX](#) | [Repo](#)
+  [PDF](#) | [BibTeX](#) | [Slides](https://www.dropbox.com/scl/fi/qoew2zw9nswpoc1qlng3f/bankruptcy_slides_nyustern.pdf?rlkey=iozklz3k8ksg49e7fcwnhzfv7&dl=0)
 
 - **Houses and Families across Countries**  
   (with A. Peter, M. Piazzesi, and M. Schneider)  
