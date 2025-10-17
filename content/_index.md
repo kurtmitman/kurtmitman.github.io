@@ -10,8 +10,8 @@ title: "Kurt Mitman"
 </div>
 
 
-**Professor at CEMFI**  
-Associate Professor (on leave), IIES, Stockholm University  
+**Associate Professor at IIES, Stockholm University**
+Professor (on leave) at CEMFI  
 Research Fellow at CEPR and IZA  
 
 My research focuses on macroeconomics. I serve on the Editorial Board of the *Review of Economic Studies*, where I was formerly a Managing Editor.
