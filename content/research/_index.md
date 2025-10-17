@@ -6,7 +6,7 @@ title: "Research"
 ## Published Papers
 
 - **Micro and Macro Effects of UI Policies: Evidence from Missouri**  
-  Forthcoming, *Journal of Political Economy* (with F. Karahan and B. Moore)  
+  *Journal of Political Economy*, 2025, 133:9, 2836-2873  (with F. Karahan and B. Moore)  
   [PDF](/files/Missouri.pdf)
  | [Published Version](https://doi.org/10.1086/736215) | [Repo](https://doi.org/10.7910/DVN/FHB4BK)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
@@ -34,20 +34,22 @@ URL = {https://doi.org/10.1086/736215}}
 
 ```bibtex
 @article{mitman2014miracle,
-  title={The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?},
+title={The impact of unemployment benefit extensions on employment: the 2014 employment miracle?},
   author={Hagedorn, Marcus and Manovskii, Iourii and Mitman, Kurt},
   journal={American Economic Journal: Macroeconomics},
-  volume={0},
-  number={ja},
-  pages={null},
-  year={2025}
-}
+  volume={17},
+  number={4},
+  pages={168--203},
+  year={2025},
+  doi={10.1257/mac.20200239},
+  publisher={American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203-2425}
+  }
 ```
 </details></div>
 
 - **The Distributional Effects of Oil Shocks**  
-  Forthcoming, *IMF Economic Review* (with T. Broer and J. Kramer)  
-  [PDF](/files/Oil.pdf) | [Published Version](#) | [Repo](#)
+  *IMF Economic Review*, 2025, (with T. Broer and J. Kramer)  
+  [PDF](/files/Oil.pdf) | [Published Version](https://rdcu.be/eLprB) | [Repo](#)
 
 
 - **Do Unemployment Benefit Extensions Explain the Emergence of Jobless Recoveries?**  
@@ -341,6 +343,10 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
   R&R Resubmitted, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
   [PDF](/files/expectation-wealth-heterogeneity.pdf) | [BibTeX](#) | [Repo](#)
 
+- **Distributional Consequences of Becoming Climate-Neutral**  
+  R&R Resubmitted, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
+  [PDF](/files/Energy_Paper_Resub.pdf) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
+
 - **Inequality and Capital Flows in Advanced Economies**  
   R&R, *Review of Economic Studies* (with S. de Ferra and F. Romei)  
   [PDF](/files/dFMR_Flows.pdf) | [BibTeX](#) | [Repo](#)
@@ -352,10 +358,6 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 - **Economics and Epidemics: Evidence from an Estimated Spatial Econ-SIR Model**  
   R&R, *Quantitative Economics* (with M. Bognanni, D. Hanley, and D. Kolliner)  
   [PDF](/files/COVID.pdf) | [BibTeX](#) | [Repo](#)
-
-- **Distributional Consequences of Becoming Climate-Neutral**  
-  R&R, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
-  [PDF](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
 
 ---
 
