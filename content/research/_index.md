@@ -50,7 +50,6 @@ title={The impact of unemployment benefit extensions on employment: the 2014 emp
   *IMF Economic Review*, 2025, 73, 851-889 (with T. Broer and J. Kramer)  
   [PDF](/files/Oil.pdf) | [Published Version](https://rdcu.be/eLprB) | [Repo](#)
 
-
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
@@ -65,9 +64,6 @@ title={The Distributional Effects of Oil Shocks},
   }
 ```
 </details></div>
-
-
-
 
 - **Do Unemployment Benefit Extensions Explain the Emergence of Jobless Recoveries?**  
   *Journal of Economic Dynamics and Control*, 2024, 169: 104964 (with S. Rabinovich)  
@@ -394,7 +390,7 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 ---
 
-## Working Papers / In progress
+## Working Papers & In Progress
 
 
 - **Consumer Bankruptcy as Aggregate Demand Management**  
