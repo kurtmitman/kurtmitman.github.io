@@ -27,8 +27,8 @@ URL = {https://doi.org/10.1086/736215}}
 
 
 - **The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?**  
-  Forthcoming, *AEJ: Macroeconomics* (with M. Hagedorn and I. Manovskii)  
-  [PDF](/files/Miracle.pdf) | [Published Version](https://www.aeaweb.org/articles?id=10.1257/mac.20200239) | [Repo](#) | [Appendices](/files/MiracleAppendix.pdf)
+  *AEJ: Macroeconomics*, 2025, 17(4):168-203 (with M. Hagedorn and I. Manovskii)  
+  [PDF](/files/Miracle.pdf) | [Published Version](https://www.aeaweb.org/articles?id=10.1257/mac.20200239) | [Repo](https://doi.org/10.3886/E205681V1) | [Appendices](/files/MiracleAppendix.pdf)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
 ```bibtex
@@ -47,8 +47,26 @@ title={The impact of unemployment benefit extensions on employment: the 2014 emp
 </details></div>
 
 - **The Distributional Effects of Oil Shocks**  
-  *IMF Economic Review*, 2025, (with T. Broer and J. Kramer)  
+  *IMF Economic Review*, 2025, 73, 851-889 (with T. Broer and J. Kramer)  
   [PDF](/files/Oil.pdf) | [Published Version](https://rdcu.be/eLprB) | [Repo](#)
+
+
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
+```bibtex
+@article{mitman2025oil,
+title={The Distributional Effects of Oil Shocks},
+  journal={IMF Economic Review},
+  volume={73},
+  number={4},
+  pages={851--889},
+  year={2025},
+  doi={https://doi.org/10.1057/s41308-025-00291-0}
+  }
+```
+</details></div>
+
+
 
 
 - **Do Unemployment Benefit Extensions Explain the Emergence of Jobless Recoveries?**  
@@ -376,7 +394,7 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 ---
 
-## Working Papers
+## Working Papers / In progress
 
 
 - **Consumer Bankruptcy as Aggregate Demand Management**  
@@ -386,4 +404,31 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 - **Houses and Families across Countries**  
   (with A. Peter, M. Piazzesi, and M. Schneider)  
   [PDF](#) | [BibTeX](#) | [Repo](#)
+
+- **The Rise of Women and Decline of Education**  
+  (with A. Kolm, P. Krusell, and K. Larkin)  
+  [PDF](#) | [BibTeX](#) | [Repo](#)
+
+- **Monetary Policy, Heterogeneity, and the Housing Channel**  
+  (with A. Hedlund, F. Karahan, and S. Ozkan)  
+  [PDF](#) | [BibTeX](#) | [Repo](#)
+
+- **How Monetary Policy Redistributes**  
+  (with M. Hagedorn, I. Manovskii, and S. McCrary)  
+  [PDF](#) | [BibTeX](#) | [Repo](#)
+
+- **Inflation Persistence and a New Phillips Curve**  
+  (with C. Choi, M. Hagedorn, and J. Llavador)  
+  [PDF](#) | [BibTeX](#) | [Slides](https://www.dropbox.com/scl/fi/ar02pgcc4qgcxb9fdlzwh/Inflation_Prague24.pdf?rlkey=m1perz2wtmd1kn88k0gv465lu&dl=0)
+  
+- **Unequal Decoupling**  
+  (with S. de Ferra, G. Fritsch, and F. Romei)  
+  [PDF](#) | [BibTeX](#) | [Repo](#)
+  
+- **The Exchange Rate**  
+  (with S. Fanelli, M. Hagedorn, and J. Kramer)  
+  [PDF](#) | [BibTeX](#) | [Repo](#)
+  
+  
+  
 
