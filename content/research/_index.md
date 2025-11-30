@@ -348,21 +348,25 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 
 ## Conditionally Accepted / R&Rs
 
+- **Distributional Consequences of Becoming Climate-Neutral**  
+  Conditionally Accepted, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
+  [PDF](/files/Energy_Paper_Resub.pdf) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
+
 - **Unemployment Benefits and Unemployment in the Great Recession: The Role of Macro Effects**  
   R&R 2nd Round Resubmitted, *Journal of Political Economy* (with M. Hagedorn, F. Karahan, and I. Manovskii)  
   [PDF](/files/UI_and_U.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Expectation and Wealth Heterogeneity in the Macroeconomy**  
-  R&R Resubmitted, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
+  R&R 2nd Round, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
   [PDF](/files/expectation-wealth-heterogeneity.pdf) | [BibTeX](#) | [Repo](#)
-
-- **Distributional Consequences of Becoming Climate-Neutral**  
-  R&R Resubmitted, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
-  [PDF](/files/Energy_Paper_Resub.pdf) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
 
 - **Inequality and Capital Flows in Advanced Economies**  
   R&R, *Review of Economic Studies* (with S. de Ferra and F. Romei)  
   [PDF](/files/dFMR_Flows.pdf) | [BibTeX](#) | [Repo](#)
+
+- **Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation**
+  R&R, *Review of Economic Studies* (with A. Hedlund, K. Larkin, and S. Ozkan)
+  [PDF](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Slides](https://www.dropbox.com/scl/fi/g65qr7q7w2nnb2jwqxv0w/Retreat.pdf?rlkey=oln6epb6jd1km7ym33ia99x6d&dl=0)  
 
 - **The Curious Incidence of Shocks Across the Income Distribution**  
   R&R, *AEJ: Macroeconomics* (with T. Broer and J. Kramer)  
@@ -380,18 +384,13 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
   NBER WP 25571 (with M. Hagedorn and I. Manovskii)  
   [PDF](/files/FiscalMultiplierLatest.pdf) | [BibTeX](#) | [Repo](#)
 
-- **Monetary Policy in Currency Unions with Unequal Countries**  
-  CEPR DP 19872 (with L. Boehnert, S. de Ferra, and F. Romei)  
-  [PDF](https://ideas.repec.org/p/iza/izadps/dp17950.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17950.html) | [Repo](#)
-
-- **Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation**
-  CEPR DP 20364 (with A. Hedlund, K. Larkin, and S. Ozkan)
-  [PDF](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Slides](https://www.dropbox.com/scl/fi/g65qr7q7w2nnb2jwqxv0w/Retreat.pdf?rlkey=oln6epb6jd1km7ym33ia99x6d&dl=0)  
-
 ---
 
 ## Working Papers & In Progress
 
+- **Monetary Policy in Currency Unions with Unequal Countries**  
+  CEPR DP 19872 (with L. Boehnert, S. de Ferra, and F. Romei)  
+  [PDF](https://ideas.repec.org/p/iza/izadps/dp17950.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17950.html) | [Repo](#)
 
 - **Consumer Bankruptcy as Aggregate Demand Management**  
   (with A. Auclert)  
