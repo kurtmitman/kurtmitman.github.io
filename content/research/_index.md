@@ -376,13 +376,10 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
   R&R, *Quantitative Economics* (with M. Bognanni, D. Hanley, and D. Kolliner)  
   [PDF](/files/COVID.pdf) | [BibTeX](#) | [Repo](#)
 
----
-
-## Papers Submitted for Publication
-
 - **The Fiscal Multiplier**  
-  NBER WP 25571 (with M. Hagedorn and I. Manovskii)  
+  R&R, *Journal of Political Economy Macroeconomics* (with M. Hagedorn and I. Manovskii)  
   [PDF](/files/FiscalMultiplierLatest.pdf) | [BibTeX](#) | [Repo](#)
+
 
 ---
 
