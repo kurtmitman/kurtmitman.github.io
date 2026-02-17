@@ -5,6 +5,14 @@ title: "Research"
 
 ## Published Papers
 
+- **Unemployment Benefits and Unemployment in the Great Recession: The Role of Macro Effects**  
+  Accepted, *Journal of Political Economy* (with M. Hagedorn, F. Karahan, and I. Manovskii)  
+  [PDF](/files/UI_and_U.pdf) | [BibTeX](#) | [Repo](#)
+
+- **Distributional Consequences of Becoming Climate-Neutral**  
+  Forthcoming, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
+  [PDF](/files/Energy_Paper_Resub.pdf)| [Published Version](https://doi.org/10.1093/ej/ueag004) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](https://zenodo.org/records/18118635)
+
 - **Micro and Macro Effects of UI Policies: Evidence from Missouri**  
   *Journal of Political Economy*, 2025, 133:9, 2836-2873  (with F. Karahan and B. Moore)  
   [PDF](/files/Missouri.pdf)
@@ -347,14 +355,6 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 ---
 
 ## Conditionally Accepted / R&Rs
-
-- **Distributional Consequences of Becoming Climate-Neutral**  
-  Conditionally Accepted, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
-  [PDF](/files/Energy_Paper_Resub.pdf) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](#)
-
-- **Unemployment Benefits and Unemployment in the Great Recession: The Role of Macro Effects**  
-  R&R 2nd Round Resubmitted, *Journal of Political Economy* (with M. Hagedorn, F. Karahan, and I. Manovskii)  
-  [PDF](/files/UI_and_U.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Expectation and Wealth Heterogeneity in the Macroeconomy**  
   R&R 2nd Round, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
