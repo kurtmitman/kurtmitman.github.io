@@ -5,7 +5,7 @@ title: "Research"
 
 ## Published Papers
 
-- **Unemployment Benefits and Unemployment in the Great Recession: The Role of Macro Effects**  
+- **Unemployment Benefits and Unemployment in the Great Recession: The Role of Equilibrium Effects**  
   Accepted, *Journal of Political Economy* (with M. Hagedorn, F. Karahan, and I. Manovskii)  
   [PDF](/files/UI_and_U.pdf) | [BibTeX](#) | [Repo](#)
 
