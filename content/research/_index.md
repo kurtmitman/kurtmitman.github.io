@@ -405,6 +405,10 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
   (with A. Hedlund, F. Karahan, and S. Ozkan)  
   [PDF](#) | [BibTeX](#) | [Repo](#)
 
+- **Estimating the Aggregate Implications of Incomplete Markets using and Incomplete Model**  
+  (with M. Hagedorn, I. Manovskii, and S. McCrary)  
+  [PDF](#) | [BibTeX](#) | [Repo](#)
+
 - **How Monetary Policy Redistributes**  
   (with M. Hagedorn, I. Manovskii, and S. McCrary)  
   [PDF](#) | [BibTeX](#) | [Repo](#)
