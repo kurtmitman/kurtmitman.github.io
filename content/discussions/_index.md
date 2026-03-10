@@ -3,6 +3,10 @@
 title: "Discussions"
 ---
 
+- **Intergenerational Mobility and Credit** (by Braxton, Chikhale, Herkenhoff & Phillips)
+  NBER Economic Growth and Fluctuations Program Meeting, February 27, 2026
+  [PDF](/files/Braxtonetal_DiscussionMitman.pdf)
+
 - **Unlocking Mortgage Lock-In: Evidence From A Spatial Housing Model** (by Fonseca, Liu & Mabille)
   NBER Economic Growth and Fluctuations Program Meeting, October 24, 2025
   [PDF](/files/LockIn-DiscussionKM.pdf)
