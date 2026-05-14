@@ -18,4 +18,6 @@ My research focuses on macroeconomics. I serve on the Editorial Board of the *Re
 
 [Download CV](/files/KurtMitmanCV.pdf)
 
+A great initiative by [Alessandra Peter][http://alessandrapeter.com/] and [Federica Romei][https://sites.google.com/site/romeifederica/]: [One Extra Year][https://oneextrayear.substack.com/]
+
 [Remembering Marcus Hagedorn](https://www.sas.upenn.edu/~manovski/Remembering%20Marcus%20Hagedorn.pdf)
