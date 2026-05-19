@@ -5,6 +5,10 @@ title: "Research"
 
 ## Published Papers
 
+- **Expectation and Wealth Heterogeneity in the Macroeconomy**  
+  Accepted, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
+  [PDF](/files/expectation-wealth-heterogeneity.pdf) | [BibTeX](#) | [Repo](#)
+
 - **Unemployment Benefits and Unemployment in the Great Recession: The Role of Equilibrium Effects**  
   Accepted, *Journal of Political Economy* (with M. Hagedorn, F. Karahan, and I. Manovskii)  
   [PDF](/files/UI_and_U.pdf) | [BibTeX](#) | [Repo](#)
@@ -355,10 +359,6 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 ---
 
 ## Conditionally Accepted / R&Rs
-
-- **Expectation and Wealth Heterogeneity in the Macroeconomy**  
-  2nd Round R&R resubmitted, *Journal of Political Economy* (with T. Broer, A. Kohlhas, and K. Schlafmann)  
-  [PDF](/files/expectation-wealth-heterogeneity.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Inequality and Capital Flows in Advanced Economies**  
   R&R, *Review of Economic Studies* (with S. de Ferra and F. Romei)  
