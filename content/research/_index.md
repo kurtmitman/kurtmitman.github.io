@@ -369,7 +369,7 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
   [PDF](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Slides](https://www.dropbox.com/scl/fi/g65qr7q7w2nnb2jwqxv0w/Retreat.pdf?rlkey=oln6epb6jd1km7ym33ia99x6d&dl=0)  
 
 - **The Curious Incidence of Shocks Across the Income Distribution**
-  R&R resubmitted, *AEJ: Macroeconomics* (with T. Broer and J. Kramer)
+  Conditionally Accepted, *AEJ: Macroeconomics* (with T. Broer and J. Kramer)
   [PDF](/files/Incidence_and_MP.pdf) | [Repo](#)
 <div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
 
