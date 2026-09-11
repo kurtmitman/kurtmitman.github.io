@@ -10,7 +10,7 @@ title: "Kurt Mitman"
 </div>
 
 
-**Associate Professor at IIES, Stockholm University**
+**Professor at IIES, Stockholm University**
 Professor (on leave) at CEMFI  
 Research Fellow at CEPR and IZA  
 
