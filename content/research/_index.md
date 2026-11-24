@@ -13,10 +13,6 @@ title: "Research"
   Forthcoming, *Journal of Political Economy* (with M. Hagedorn, F. Karahan, and I. Manovskii)  
   [PDF](/files/UI_and_U.pdf) | [Published Version](https://doi.org/10.1086/745090) | [BibTeX](#) | [Repo](#)
 
-- **Distributional Consequences of Becoming Climate-Neutral**  
-  Forthcoming, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
-  [PDF](/files/Energy_Paper_Resub.pdf)| [Published Version](https://doi.org/10.1093/ej/ueag004) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](https://zenodo.org/records/18118635)
-
 - **The Curious Incidence of Shocks Across the Income Distribution**  
   Forthcoming, *AEJ: Macroeconomics* (with T. Broer and J. Kramer)  
   [PDF](/files/Incidence_and_MP.pdf) | [Repo](#)
@@ -28,6 +24,26 @@ title={The Curious Incidence of Shocks Across the Income Distribution},
 author={Broer, Tobias and Kramer, John and Mitman, Kurt},
 journal={American Economic Journal: Macroeconomics},
 year={forthcoming}
+}
+```
+</details></div>
+
+- **Distributional Consequences of Becoming Climate-Neutral**  
+  *The Economic Journal*, 2026, 136:677, 1704-1728 (with P. Hochmuth and P. Krusell)  
+  [PDF](/files/Energy_Paper_Resub.pdf) | [Published Version](https://doi.org/10.1093/ej/ueag004) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](https://zenodo.org/records/18118635)
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
+```bibtex
+@article{hochmuth2026climate,
+title={Distributional Consequences of Becoming Climate-Neutral},
+author={Hochmuth, Philipp and Krusell, Per and Mitman, Kurt},
+journal={The Economic Journal},
+volume={136},
+number={677},
+pages={1704--1728},
+year={2026},
+doi={10.1093/ej/ueag004},
+url={https://doi.org/10.1093/ej/ueag004}
 }
 ```
 </details></div>
