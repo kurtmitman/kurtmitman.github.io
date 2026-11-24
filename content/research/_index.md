@@ -10,12 +10,27 @@ title: "Research"
   [PDF](/files/expectation-wealth-heterogeneity.pdf) | [BibTeX](#) | [Repo](#)
 
 - **Unemployment Benefits and Unemployment in the Great Recession: The Role of Equilibrium Effects**  
-  Accepted, *Journal of Political Economy* (with M. Hagedorn, F. Karahan, and I. Manovskii)  
-  [PDF](/files/UI_and_U.pdf) | [BibTeX](#) | [Repo](#)
+  Forthcoming, *Journal of Political Economy* (with M. Hagedorn, F. Karahan, and I. Manovskii)  
+  [PDF](/files/UI_and_U.pdf) | [Published Version](https://doi.org/10.1086/745090) | [BibTeX](#) | [Repo](#)
 
 - **Distributional Consequences of Becoming Climate-Neutral**  
   Forthcoming, *The Economic Journal* (with P. Hochmuth and P. Krusell)  
   [PDF](/files/Energy_Paper_Resub.pdf)| [Published Version](https://doi.org/10.1093/ej/ueag004) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17861.html) | [Repo](https://zenodo.org/records/18118635)
+
+- **The Curious Incidence of Shocks Across the Income Distribution**  
+  Forthcoming, *AEJ: Macroeconomics* (with T. Broer and J. Kramer)  
+  [PDF](/files/Incidence_and_MP.pdf) | [Repo](#)
+<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
+
+```bibtex
+@article{broer2025incidence,
+title={The Curious Incidence of Shocks Across the Income Distribution},
+author={Broer, Tobias and Kramer, John and Mitman, Kurt},
+journal={American Economic Journal: Macroeconomics},
+year={forthcoming}
+}
+```
+</details></div>
 
 - **Micro and Macro Effects of UI Policies: Evidence from Missouri**  
   *Journal of Political Economy*, 2025, 133:9, 2836-2873  (with F. Karahan and B. Moore)  
@@ -367,21 +382,6 @@ keywords = {Housing, Mortgage market, Default risk, Government-sponsored enterpr
 - **Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation**
   R&R, *Review of Economic Studies* (with A. Hedlund, K. Larkin, and S. Ozkan)
   [PDF](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [RePEc](https://ideas.repec.org/p/iza/izadps/dp17971.html) | [Slides](https://www.dropbox.com/scl/fi/g65qr7q7w2nnb2jwqxv0w/Retreat.pdf?rlkey=oln6epb6jd1km7ym33ia99x6d&dl=0)  
-
-- **The Curious Incidence of Shocks Across the Income Distribution**
-  Conditionally Accepted, *AEJ: Macroeconomics* (with T. Broer and J. Kramer)
-  [PDF](/files/Incidence_and_MP.pdf) | [Repo](#)
-<div style="margin: -18px 0 6px 22px;"><details><summary>BibTeX</summary>
-
-```bibtex
-@unpublished{broer2025incidence,
-title={The Curious Incidence of Shocks Across the Income Distribution},
-author={Broer, Tobias and Kramer, John and Mitman, Kurt},
-year={2025},
-note={R\&R resubmitted, American Economic Journal: Macroeconomics}
-}
-```
-</details></div>
 
 - **Economics and Epidemics: Evidence from an Estimated Spatial Econ-SIR Model**  
   R&R, *Quantitative Economics* (with M. Bognanni, D. Hanley, and D. Kolliner)  
